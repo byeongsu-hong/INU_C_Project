@@ -1,0 +1,1 @@
+2 cos 3 sin + 3 * log

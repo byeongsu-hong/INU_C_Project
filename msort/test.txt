@@ -1,0 +1,8 @@
+a '.".''.".' => 8 <=
+bbb '.".'.".' => 7 <=
+ccccc '."..".' => 6 <=
+ddddddd '.".".' => 5 <=
+eeeeeeeee '."".' => 4 <=
+fffffffffff '.".' => 3 <=
+ggggggggggggg '..' => 2 <=
+hhhhhhhhhhhhhhh '.' => 1 <=
